@@ -1,0 +1,6 @@
+{
+    "wathch": ["src", "./", "helpers"],
+    "ext": ".js",
+    "ignore": [],
+    "exec": "npx ts-node ./app.js"
+}
